@@ -1,0 +1,12 @@
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/apple_30.jpg 254,163,582,487,0 217,448,535,713,0 603,470,800,716,0 468,179,727,467,0 1,63,308,414,0
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/apple_77.jpg 71,60,175,164,0 12,22,105,111,0 134,23,243,115,0 107,126,216,229,0 207,138,298,229,0
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/apple_92.jpg 77,74,540,518,0
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/banana_33.jpg 43,128,714,385,1
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/banana_43.jpg 190,12,422,182,1 170,43,355,216,1 140,56,290,246,1 86,75,172,290,1
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/banana_86.jpg 313,228,935,1864,1 401,129,1078,1890,1 135,291,642,1747,1
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_24.jpg 399,238,678,519,2 559,81,869,339,2 583,328,916,565,2
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_38.jpg 12,54,342,386,2
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_67.jpg 195,61,438,284,2
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_77.jpg 1,123,130,299,2 379,1,558,144,2
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_78.jpg 279,14,562,295,2
+E:\py-workspace\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/orange_89.jpg 99,96,532,592,2 652,196,1123,710,2 430,108,776,525,2

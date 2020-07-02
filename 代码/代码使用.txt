@@ -1,0 +1,3 @@
+运行keras-yolo3/yolo.py文件即可进行预测
+
+yolo.py文件中的refer_dir变量即为要进行预测的图片

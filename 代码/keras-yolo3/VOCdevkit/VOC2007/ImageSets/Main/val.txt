@@ -1,0 +1,12 @@
+apple_30
+apple_77
+apple_92
+banana_33
+banana_43
+banana_86
+orange_24
+orange_38
+orange_67
+orange_77
+orange_78
+orange_89
